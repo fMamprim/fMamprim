@@ -1,7 +1,7 @@
 <div align="center" style="margin: 40px 0;">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?color=9B30FF&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Helloysa+Rocha;I+am+from+São+Paulo,+Brasil;Be+Welcome!+:3" 
+      src="https://readme-typing-svg.herokuapp.com/?color=07ed0b&size=32&center=true&vCenter=true&width=700&lines=Oi,+meu+nome+é+Felipe+Mamprim;Seja+Bem-+vindo!" 
       alt="Typing SVG" 
     />
   </a>
