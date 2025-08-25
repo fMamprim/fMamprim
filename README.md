@@ -23,6 +23,7 @@
 Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valinhos.
 </div>
 
+<div align="center">
 <p align="left">
     <a href="https://github.com/fMamprim?tab=repositories&sort=stargazers">
         <img 
@@ -36,6 +37,7 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
             title="Seguidores" 
             src="https://custom-icon-badges.demolab.com/github/followers/helozinha1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
 </a>
+</div>
 
 <div align="center">
   <a href="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif">
