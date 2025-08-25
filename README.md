@@ -28,18 +28,18 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
         <img 
             alt="Stars" 
             title="Estrelas" 
-            src="https://custom-icon-badges.demolab.com/github/stars/helozinha1?color=55960c&style=for-the-badge&labelColor=488207&logo=stars&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/fMamprim?color=55960c&style=for-the-badge&labelColor=488207&logo=stars&label=Stars"
     </a>
     <a href="https://github.com/fMamprim?tab=followers">
         <img 
             alt="Followers" 
             title="Seguidores" 
-            src="https://custom-icon-badges.demolab.com/github/followers/helozinha1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/fMamprim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
 </a>
 
 <div align="center">
-  <a href="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif">
-    <img src="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif" width="100px" alt="Save Game" />
+  <a href="https://github.com/fMamprim/fMamprim/blob/main/sanandreas-gta.gif">
+    <img src="https://github.com/fMamprim/fMamprim/blob/main/sanandreas-gta.gif" width="100px" alt="Save Game" />
   </a>
 </div>
 
