@@ -23,7 +23,8 @@
 Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valinhos.
 </div>
 
-<p align="center" style="margin: 30px 0">
+<div align="center" style="margin: 30px 0">
+<p align="center">
     <a href="https://github.com/fMamprim?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
@@ -36,6 +37,7 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
             title="Seguidores" 
             src="https://custom-icon-badges.demolab.com/github/followers/fMamprim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
 </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/fMamprim/fMamprim/blob/main/sanandreas-gta.gif">
