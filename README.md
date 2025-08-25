@@ -15,13 +15,13 @@
     <img src="https://img.icons8.com/ios/40/07ed0b/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/fmamprim_" target="_blank">
-    <img src="https://img.icons8.com/ios/40/07ed0b/instagram-new--v1.png" width="100px" alt="Instagram" />
+    <img src="https://img.icons8.com/ios/40/07ed0b/instagram-new--v1.png" alt="Instagram" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif">
-    <img src="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif" alt="Save Game" />
+    <img src="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif" width="100px" alt="Save Game" />
   </a>
 </div>
 Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valinhos.
