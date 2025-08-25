@@ -19,11 +19,11 @@
   </a>
 </div>
 
-<div align="center" margin-top="50px">
+<div align="center" style="margin: 30px 0">
 Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valinhos.
 </div>
 
-<p align="center" margin-top="50px">
+<p align="center" style="margin: 30px 0">
     <a href="https://github.com/fMamprim?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
