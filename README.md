@@ -3,9 +3,6 @@
     <img src="https://github.com/fMamprim/fMamprim/blob/main/channels4_banner.jpg" alt="Toxic" />
     
   </a>
-  <a href="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif">
-    <img src="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif" alt="Save Game" />
-  </a>
 </div>
 
 <div align="center">
@@ -22,6 +19,9 @@
   </a>
 </div>
 
+  <a href="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif">
+    <img src="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif" alt="Save Game" />
+  </a>
 Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valinhos.
 
 <p align="left">
