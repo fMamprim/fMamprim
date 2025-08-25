@@ -17,9 +17,11 @@
   <a href="https://instagram.com/fmamprim_" target="_blank">
     <img src="https://img.icons8.com/ios/40/07ed0b/instagram-new--v1.png" alt="Instagram" />
   </a>
-Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valinhos.
 </div>
 
+<div align="center">
+Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valinhos.
+</div>
 
 <p align="left">
     <a href="https://github.com/fMamprim?tab=repositories&sort=stargazers">
