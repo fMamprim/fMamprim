@@ -17,17 +17,11 @@
   <a href="https://instagram.com/fmamprim_" target="_blank">
     <img src="https://img.icons8.com/ios/40/07ed0b/instagram-new--v1.png" alt="Instagram" />
   </a>
+Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valinhos.
 </div>
 
-<div align="center">
-  <a href="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif">
-    <img src="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif" width="100px" alt="Save Game" />
-  </a>
-</div>
-Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valinhos.
 
 <p align="left">
-    </a> 
     <a href="https://github.com/fMamprim?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
@@ -40,6 +34,12 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
             title="Seguidores" 
             src="https://custom-icon-badges.demolab.com/github/followers/helozinha1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
 </a>
+
+<div align="center">
+  <a href="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif">
+    <img src="https://media.tenor.com/2u8vxsKAjjAAAAAM/sanandreas-gta.gif" width="100px" alt="Save Game" />
+  </a>
+</div>
 
 ### 📊 Estatísticas
 <div align="center">
