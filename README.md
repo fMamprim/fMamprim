@@ -59,6 +59,7 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
 </div>
 <br>
 <br>
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
