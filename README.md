@@ -40,7 +40,7 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
 </div>
 
 <div align="center">
-  <a href="https://github.com/fMamprim/fMamprim/blob/main/sanandreas-gta.gif">
+  <a href="https://github.com/fMamprim/fMamprim/blob/main/sanandreas-gta.gif" style="width: 100px" >
     <img src="https://github.com/fMamprim/fMamprim/blob/main/sanandreas-gta.gif" width="100px" alt="Save Game" />
   </a>
 </div>
