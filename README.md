@@ -51,6 +51,12 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
     <img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fMamprim&layout=compact&theme=merko&hide=html">
 </div>
 
+<div align="center">
+  <a href="https://i.imgur.com/sCTL5r2.gif">
+    <img src="https://i.imgur.com/sCTL5r2.gif" width="100px" alt="Metal Slug" />
+  </a>
+</div>
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
