@@ -40,7 +40,7 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
 </div>
 
 <div align="center">
-  <a href="https://github.com/fMamprim/fMamprim/blob/main/sanandreas-gta.gif" style="width: 100px" >
+  <a href="https://github.com/fMamprim/fMamprim/blob/main/sanandreas-gta.gif">
     <img src="https://github.com/fMamprim/fMamprim/blob/main/sanandreas-gta.gif" width="100px" alt="Save Game" />
   </a>
 </div>
@@ -53,7 +53,7 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
 
 <div align="center">
   <a href="https://i.imgur.com/sCTL5r2.gif">
-    <img src="https://i.imgur.com/sCTL5r2.gif" width="100px" alt="Metal Slug" />
+    <img src="https://i.imgur.com/sCTL5r2.gif" width="1000px" alt="Metal Slug" />
   </a>
 </div>
 
