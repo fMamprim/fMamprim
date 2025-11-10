@@ -53,7 +53,7 @@ Sou professor do curso técnico de Desenvolvimento de Sistemas no SENAI de Valin
 
 <div align="center">
   <a href="https://i.imgur.com/sCTL5r2.gif">
-    <img src="https://i.imgur.com/sCTL5r2.gif" width="1000px" alt="Metal Slug" />
+    <img src="https://i.imgur.com/sCTL5r2.gif" width="500px" alt="Metal Slug" />
   </a>
 </div>
 
